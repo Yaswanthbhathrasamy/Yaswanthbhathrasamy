@@ -76,10 +76,11 @@
 </div>
 
 <div align="left">
-  **Programming Skills and Tools**
-
-[![My Skills](https://skillicons.dev/icons?i=python,bash,powershell,mysql,html,css,docker,git,github,vscode)](https://skillicons.dev)
   
+  **PROGRAMMING SKILLS AND TOOLS**
+
+  [![My Skills](https://skillicons.dev/icons?i=python,bash,powershell,mysql,html,css,docker,git,github,vscode,aws)](https://skillicons.dev)
+
 </div>
 <div align="left">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"  width="100%" >
