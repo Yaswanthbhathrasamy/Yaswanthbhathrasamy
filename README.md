@@ -11,7 +11,7 @@
 
 **ABOUT ME**
 
-<img align="right" height="800" width="400" src="https://avatars.githubusercontent.com/u/143199040?s=400&u=db09c2f8b655e7286486ad84b14377705dd8a00e&v=4">
+<img align="right" height="500" width="500" src="https://avatars.githubusercontent.com/u/143199040?s=400&u=db09c2f8b655e7286486ad84b14377705dd8a00e&v=4">
 
 <div align="left">
   
